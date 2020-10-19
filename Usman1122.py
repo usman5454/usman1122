@@ -156,7 +156,7 @@ def login():
 	except (KeyError,IOError):
 		os.system("clear")
 		print (banner)
-		hamza('[!] Usman Khan is Brand)
+		hamza('[!] Usman')
 		hamza('[!] Use a New Facebook Account To Login')
 		print'-------------------------------------'
 		iid=raw_input('[+] Number/Email: ')
